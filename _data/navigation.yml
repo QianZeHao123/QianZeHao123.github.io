@@ -8,9 +8,18 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  - title: "Nashsweeper"
+    url: /nashsweeper/
+
+  # - title: "FreeLeek"
+  #   url: /FreeLeek/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
