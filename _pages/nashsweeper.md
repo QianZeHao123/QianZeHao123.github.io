@@ -1,3 +1,9 @@
+---
+permalink: /nashsweeper/
+title: "Nashsweeper"
+author_profile: true
+---
+
 # Nashsweeper
 ## 0x00 Introduction
 Nash equilibrium is a core concept of game theory. This repo shows a playful introduction of Nash equilibrium and designs a game named Nashsweeper, which is a game designed to find the pure strategy.<br>
