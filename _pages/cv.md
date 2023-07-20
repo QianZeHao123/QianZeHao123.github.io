@@ -22,9 +22,11 @@ Education
 # Honors and Awards
 ### Computer Algorithms
 - ACM/ICPC - Second Prize of Lanqiao Cup Python Algorithm Competition at Provincial Level
+
 ### Mathematical Modeling
 - The Successful Prize of 2023 MCM/ICM - Using Lasso Regression and XGBoost to analyse the relationship between boat size, price and region.
 - The Second Prize of 2022 12th Mathor Cup College Students Mathematical Contest in Modeling - Solving 5G Base Station Signal Coverage Problems based on Harmony Search Algorithm
+
 ### Innovation and Business Plan Competition
 - First Prize at Provincial Level in Challenge Cup Business Plan Competition (2022) and First Prize at Provincial Level in Challenge Cup First Prize at Provincial Level in Challenge Cup (2023)
 - First Prize at Provincial Level in E-Commerce Competition Innovation, Creativity and Entrepreneurship (2022)
@@ -41,9 +43,12 @@ Work experience
 - **Full Stack Programming**: Python (Flask framework for Backend Dev and a little PyTorch), Node.js (Vue framework for Frontend Dev) and MatLab (for Machine Learning and Signal Processing)<br>
 - **Computer Skills**: Docker Deployment, Unity, Simulation Software, Statistic and Optimization, FlexSim(for logistics), LaTeX (I used it to edit this CV) and SPSS.<br>
 - **Hands-on ability and musical talent**: Mechanical modeling, 3D printing and Hardware making. Proficient in guitar, bass, piano, and other musical instruments.<br>
+
 # Publications
 Comiing Soon!
+
 # Talks
 Comiing Soon!
+
 # Teaching
 **Teaching Assistant for Engineering Optimization**: In the spring semester of 2023, slide and courseware for engineering optimization course, mainly introducing Convex optimization and nonlinear optimization as well as root solution algorithm. [(ZZU Engineering Optimization Course Link)](https://ieyjzhou.github.io/teaching/)
