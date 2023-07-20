@@ -61,6 +61,6 @@ sudo docker-compose down
 ```
 ## 0x02 Software Architecture
 ### Frontend User Interface Render
-![](/images/nashsweeper/NSfront.png)
+![](/images/NSfront.png)
 ### Backend DataProcess
-![](/images/nashsweeper/NSback.png)
+![](/images/NSback.png)
