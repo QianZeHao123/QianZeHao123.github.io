@@ -15,6 +15,7 @@ redirect_from:
 - 👯 I’m looking to collaborate on [OpenIE & FreeLeek Foundataion](http://www.openie.xyz:803/).
 
 # Current Projects
+
 | Project | Job | Duration | Details | Link |
 | ------- | --- | -------- | ------- | ---- |
 | FreeLeek | Project Author and Maintainer | Oct 2021 – Present | FreeLeek is an open source server-end framework for transmiting financial data to app backend and WeChat platform by using Python Flask, Tushare Pro and Akshare. | [FreeLeek Repo](https://gitee.com/qian_zehao/free-leek) |
