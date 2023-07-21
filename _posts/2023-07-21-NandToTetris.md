@@ -6,13 +6,10 @@ tags:
   - Computer Science
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+The online curriculum "From Nand to Tetris" must be one of the best computer science for fresh bird like me in the world! This blog will record my study through the book called *The Elements of Computing Systems* whose main contents are HDL, Assembler, VM and OS.
 
-Headings are cool
-======
+# Basic Logic Implementation with Nand Gate
+![](/images/blog-20230721-BasicLogic.png)
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+# ALU Implementation
+![](/images/blog-20230721-ALU.png)
