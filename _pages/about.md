@@ -20,6 +20,4 @@ redirect_from:
 | FreeLeek | Project Author and Maintainer | Oct 2021 – Present | FreeLeek is an open source server-end framework for transmiting financial data to app backend and WeChat platform by using Python Flask, Tushare Pro and Akshare. | [FreeLeek Repo](https://gitee.com/qian_zehao/free-leek) |
 | Nashsweeper | Project Author | Dec 2022 – May 2023 | Nashsweeper shows a playful introduction of Nash equilibrium and designs a game named Nashsweeper, which is a game designed to find the pure strategy.  | [iPad Version](http://204.15.75.42:8081/)<br><br>[PC Version](http://204.15.75.42:8082/)|
 | OpenIE – Open Source Industrial Engineering Foundation | Foundation Initiator, Project Leader | April 2022 – Present | Prediction of Tool Wear in Machining Centers Based on Deep Learning and Its Industrial Application (Feature engineering and Recurrent neural network are used in this project). <br><br> Some other optimizations for industrial scenario problems. | [OpenIE Repo](https://gitee.com/qian_zehao/OpenIE) |
-| ---- | ---- | ---- | ---- | ---- |
-| ---- | ---- | ---- | ---- | ---- |
-| ---- | ---- | ---- | ---- | ---- |
+
