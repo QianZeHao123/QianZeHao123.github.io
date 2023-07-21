@@ -13,3 +13,5 @@ The online curriculum "From Nand to Tetris" must be one of the best computer sci
 
 # ALU Implementation
 ![](/images/blog-20230721-ALU.png)
+
+![](/images/blog-20230721-SequentialLogic.png)
