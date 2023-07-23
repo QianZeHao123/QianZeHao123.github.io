@@ -16,4 +16,4 @@ The online curriculum "From Nand to Tetris" must be one of the best computer sci
 
 ![](/images/blog-20230721-SequentialLogic.png)
 
-![](../images/blog-20230721-Hack-computer.png)
+![](/images/blog-20230721-Hack-computer.png)
