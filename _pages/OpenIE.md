@@ -21,7 +21,6 @@ Here are some researches we are doing right now:
 | Profile | Name & Major | Direction | Profile | Name & Major | Direction |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![](/images/OpenIE-Member-WenjieLuo.png) | Luo Wenjie, Logistic Management | System Simulation and Model Validation | ![](/images/OpenIE-Member-ZiyangZhang.png) | Zhang Ziyang, E-commerce | Strategy Management |
-| ![](/images/OpenIE-Member-JiajuZhang.png) | [Zhang Jiaju](https://xungirl.github.io/), E-commerce | AI, full stack Dev | ---- | ---- | ---- |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | ---- | ---- | ---- | ---- | ---- | ---- |
