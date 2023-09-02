@@ -6,9 +6,9 @@ tags:
   - Computer Science
 ---
 
-# Conda for development environments and Docker for production environments
+🐍 At least one thing is certain, I will not install Python interpreters and pip packages in computer systems, obsessive-compulsive means that installing different Python interpreters and third-party packages into the User directory is very "inelegant", and at the same time, Linux will also download some Python things as auxiliary tools when updating the system, so I usually write Python is a new environment.
 
-At least one thing is certain, I will not install Python interpreters and pip packages in computer systems, obsessive-compulsive means that installing different Python interpreters and third-party packages into the User directory is very "inelegant", and at the same time, Linux will also download some Python things as auxiliary tools when updating the system, so I usually write Python is a new environment.
+# Conda for development environments and Docker for production environments
 
 ## Development environment: conda
 
