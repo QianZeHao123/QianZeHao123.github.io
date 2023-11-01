@@ -13,7 +13,7 @@ redirect_from:
 - 📫 How to reach me: qianzehao123@gmail.com
 - 😄 Pronouns: Every brave attempt deserves to be respected.
 - ⚡ Quantum Computing and Brain-Computer interface stand for the future!
-- 👯 I’m looking to collaborate on [OpenIE & FreeLeek Foundataion](http://www.openie.xyz:803/).
+- 👯 I’m looking to collaborate on [OpenIE & FreeLeek Foundataion](http://198.74.121.61:803/).
 
 # Current Projects
 
